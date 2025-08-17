@@ -1,3 +1,19 @@
+# CMPE 280 Starter — React + TypeScript + Vite
+
+Minimal starter for CMPE 280. Fast local dev with Vite, React + TS, and hot reload.
+
+## Quickstart (5 minutes)
+
+### 1) Prerequisites
+- Node **LTS** (recommend `nvm install --lts`)
+- Optional: `.nvmrc` with your LTS major (e.g., `v22`) for consistency
+
+### 2) Install and run
+```bash
+npm install
+npm run dev
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
